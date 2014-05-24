@@ -6,4 +6,4 @@
 
 An experiment in treating life like a software project.
 
-Started by [Feros Aboukhadijeh](https://github/com/feross/Life).
+Started by [Feros Aboukhadijeh](https://github.com/feross/Life).
